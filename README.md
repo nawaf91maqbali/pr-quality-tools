@@ -4,7 +4,7 @@ This guide explains how **[PR-Agent](https://github.com/Codium-ai/pr-agent)** an
 
 ---
 
-## 1. PR-Agent — How It Works Alone
+## 1. PR-Agent
 
 **Purpose:** AI-assisted pull request reviews and summaries.
 
@@ -53,7 +53,7 @@ Developer Creates/Updates PR
 
 ---
 
-## 2. SonarQube — How It Works Alone
+## 2. SonarQube
 
 **Purpose:** Static code analysis & enforcing quality gates.
 
