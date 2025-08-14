@@ -117,6 +117,13 @@ Developer Pushes Code / Opens PR
 ---
 
 ## 4. Summary  
-- **Use PR-Agent alone** if you want fast, human-like feedback inside PRs.  
-- **Use SonarQube alone** if you want strict rule enforcement and detailed code health metrics.  
-- **Use both together** for the best of AI + static analysis.  
+- **Use PR-Agent** if you want fast, human-like feedback inside PRs.  
+- **Use SonarQube** if you want strict rule enforcement and detailed code health metrics.  
+- **Use both** for the best of AI + static analysis.
+
+---
+
+## 🙋‍♂️ Author
+
+**Nawaf AL-Maqbali**  
+📧 [LinkedIn](https://www.linkedin.com/in/nawaf-al-maqbali-6bb4a6227)  
